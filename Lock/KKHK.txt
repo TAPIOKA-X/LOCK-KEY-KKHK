@@ -1,4 +1,4 @@
-2..
+2..5..
 https://tapioka-x.github.io/akari/Hint/IMG.png
 
 F 1.22 6.6 8.0 52 9.9
